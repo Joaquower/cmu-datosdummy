@@ -1,0 +1,34 @@
+{
+  "sucursal": {
+    "id": 1,
+    "codigo": "KQ"
+  },
+  "escanear_qr": true,
+  "calificaciones": [
+    {
+      "id": "1",
+      "etiqueta": "Muy insatisfecho",
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+    },
+    {
+      "id": "2",
+      "etiqueta": "Insatisfecho",
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mP8z8BQz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+    },
+    {
+      "id": "3",
+      "etiqueta": "Neutral",
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNkYGD4z0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+    },
+    {
+      "id": "4",
+      "etiqueta": "Satisfecho",
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+    },
+    {
+      "id": "5",
+      "etiqueta": "Muy satisfecho",
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mP8z8BQz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+    }
+  ]
+}

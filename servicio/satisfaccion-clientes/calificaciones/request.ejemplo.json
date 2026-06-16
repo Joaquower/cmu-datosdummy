@@ -1,0 +1,13 @@
+[
+  {
+    "sucursal": 1,
+    "fecha": "2026-06-16T10:30:00",
+    "id_interno": "2026-06-16T10:30:00",
+    "calificacion": 5,
+    "sincronizado": false,
+    "ticket": "TKT-2026-001234",
+    "metodo_contacto": "whatsapp",
+    "opinion": "Excelente atención, muy rápido el servicio.",
+    "numero_telefono": "5512345678"
+  }
+]
