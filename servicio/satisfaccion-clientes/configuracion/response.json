@@ -1,7 +1,7 @@
 {
   "sucursal": {
     "id": 1,
-    "codigo": "KQ"
+    "codigo": "12345678"
   },
   "escanear_qr": true,
   "calificaciones": [
