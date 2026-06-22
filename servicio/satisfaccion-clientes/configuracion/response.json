@@ -1,34 +1,26 @@
 {
+  "updated_at": "2026-06-21T12:00:00",
   "sucursal": {
     "id": 1,
     "codigo": "12345678"
   },
   "escanear_qr": true,
+  "camara": "back",
   "calificaciones": [
     {
       "id": "1",
-      "etiqueta": "Muy insatisfecho",
-      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+      "etiqueta": "Buena",
+      "url": "https://drive.google.com/file/d/1Rq6vPhOyL4PXUTYqJRnDSAhBiKOD1CLv/view?usp=sharing"
     },
     {
       "id": "2",
-      "etiqueta": "Insatisfecho",
-      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mP8z8BQz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+      "etiqueta": "Regular",
+      "url": "https://drive.google.com/file/d/1jNAtn51Gz6j2EavD5Qxdu1i4nZW6aX-Y/view?usp=sharing"
     },
     {
       "id": "3",
-      "etiqueta": "Neutral",
-      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNkYGD4z0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
-    },
-    {
-      "id": "4",
-      "etiqueta": "Satisfecho",
-      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
-    },
-    {
-      "id": "5",
-      "etiqueta": "Muy satisfecho",
-      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mP8z8BQz0AEYBxVSF+FABJADveW2WCSAAAAAElFTkSuQmCC"
+      "etiqueta": "Mala",
+      "url": "https://drive.google.com/file/d/1kKQTBE3z4CpU4zXc3UhcAyoGVoJjvxl1/view?usp=sharing"
     }
   ]
 }
