@@ -4,7 +4,7 @@
     "id": 1,
     "codigo": "12345678"
   },
-  "escanear_qr": true,
+  "escanear_qr": false,
   "camara": "front",
   "calificaciones": [
     {
